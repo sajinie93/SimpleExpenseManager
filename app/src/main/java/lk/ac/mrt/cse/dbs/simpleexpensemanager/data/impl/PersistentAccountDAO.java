@@ -16,7 +16,7 @@ import lk.ac.mrt.cse.dbs.simpleexpensemanager.data.model.ExpenseType;
 
 public class PersistentAccountDAO extends SQLiteOpenHelper implements AccountDAO {
 
-    private static final String DATABASE_NAME = "IndexNumber";
+    private static final String DATABASE_NAME = "140499X";
 
     private static final String TABLE_ACCOUNTS = "Accounts";
 
